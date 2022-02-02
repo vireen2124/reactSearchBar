@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.pageContainer{
+    padding:0 0.5rem
+}
+.namePrice{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: .5rem;
+}
+.show-suit{
+    width: 100%;
+    display:grid;
+    grid-template-columns: repeat(auto-fill,minmax(400px, 1fr)) ;
+    gap: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.productContainer{
+    border-radius: 1rem;
+    background-color: rgb(231, 187, 187);
+    padding:1rem;
+}
+.productContainer div{
+    text-transform: capitalize;
+}
+.searchBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    height:4rem;
+}
+.search{
+    padding: 0.5rem 1rem;
+    border-radius:.5rem;
+    border:none;
+    background-color: cornflowerblue;
+}
+

@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/reactSearchBar/static/css/main.b75f0519.css",
-    "main.js": "/reactSearchBar/static/js/main.360c3280.js",
-    "static/media/saree.jpg": "/reactSearchBar/static/media/saree.7c61b8292f2358b6d731.jpg",
-    "index.html": "/reactSearchBar/index.html",
-    "main.b75f0519.css.map": "/reactSearchBar/static/css/main.b75f0519.css.map",
-    "main.360c3280.js.map": "/reactSearchBar/static/js/main.360c3280.js.map"
+    "main.css": "/react/static/css/main.b75f0519.css",
+    "main.js": "/react/static/js/main.25d4c500.js",
+    "static/media/saree.jpg": "/react/static/media/saree.7c61b8292f2358b6d731.jpg",
+    "index.html": "/react/index.html",
+    "main.b75f0519.css.map": "/react/static/css/main.b75f0519.css.map",
+    "main.25d4c500.js.map": "/react/static/js/main.25d4c500.js.map"
   },
   "entrypoints": [
     "static/css/main.b75f0519.css",
-    "static/js/main.360c3280.js"
+    "static/js/main.25d4c500.js"
   ]
 }
